@@ -115,7 +115,6 @@ def changing_alan
 end
 
 alans_new_info
-end 
 
 def adding_to_dennis
 	programmer_hash = 
